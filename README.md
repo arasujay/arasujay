@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arasujay
 - 👀 I’m interested in Cybersecurity and penetration testing
-- 🌱 I’m currently learning bug hunting
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
