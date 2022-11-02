@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arasujay
-- 👀 I’m interested in Cybersecurity and penetration testing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ARASU
+- 👀 I’m interested in Cybersecurity and Software development
+- 🌱 I’m currently learning intermediate python
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me ..... govt1906jay@gmail.com
 
 <!---
 arasujay/arasujay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
